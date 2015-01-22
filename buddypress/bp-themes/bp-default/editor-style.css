@@ -2,6 +2,7 @@
 Theme Name: BuddyPress Default
 Description: Used to style the TinyMCE editor.
 */
+/* Added css for the new section User List */
 
 html .mceContentBody {
 	font-family: Arial, Tahoma, Verdana, sans-serif;
