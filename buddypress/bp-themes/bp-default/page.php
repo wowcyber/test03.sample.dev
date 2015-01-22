@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+	<!-- Added new section -->
 	<div id="content">
 		<div class="padder">
 
