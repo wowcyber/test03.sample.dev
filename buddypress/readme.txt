@@ -1,3 +1,5 @@
+Updated documentation in readme.txt to reflec the removal of autoload function
+
 === BuddyPress ===
 Contributors: johnjamesjacoby, DJPaul, boonebgorges, r-a-y, imath, mercime
 Tags: social networking, activity, profiles, messaging, friends, groups, forums, notifications, settings, social, community, networks, networking
