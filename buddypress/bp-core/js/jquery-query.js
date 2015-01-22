@@ -1,3 +1,4 @@
+/* updated Js code to lasted version*/
 /* jshint unused: false */
 
 function bp_get_querystring( n ) {
