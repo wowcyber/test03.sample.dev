@@ -1,3 +1,4 @@
+/* Updated code from version 1.4.1 to 1.5.0 */
 /* jshint undef: false */
 
 /*!
