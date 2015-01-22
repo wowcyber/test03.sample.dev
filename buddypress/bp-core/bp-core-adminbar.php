@@ -1,5 +1,5 @@
 <?php
-
+// added list sort option to admin bar
 /**
  * BuddyPress Core Toolbar.
  *
