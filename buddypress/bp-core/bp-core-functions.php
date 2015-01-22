@@ -1,5 +1,5 @@
 <?php
-
+// removed autoload function in bp-core-functions
 /**
  * BuddyPress Common Functions.
  *
